@@ -6,3 +6,5 @@ Iroh was a retired Fire Nation General, a former Crown Prince of the nation, a G
 * is a firebender
 * loves nephew Zuko like own son
 * almost always calm and thoughtful
+
+> In the darkest times, hope is something you give yourself. That is the meaning of inner strength.
