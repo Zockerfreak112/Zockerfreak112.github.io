@@ -1,6 +1,6 @@
 # Iroh
 Iroh was a retired Fire Nation General, a former Crown Prince of the nation, a Grand Lotus of the Order of the White Lotus, a firebending master, and a wise mentor to his nephew Zuko. He was the elder son of Fire Lord Azulon and Ilah and the older brother of Ozai.
-##character traits
+## character traits
 * loves tea
 * loves jasmine tea the most
 * is a firebender
