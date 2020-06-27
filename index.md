@@ -8,3 +8,5 @@ Iroh was a retired Fire Nation General, a former Crown Prince of the nation, a G
 * almost always calm and thoughtful
 
 > In the darkest times, hope is something you give yourself. That is the meaning of inner strength.
+
+<img src="https://vignette.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png/revision/latest?cb=20130626131914"/>
